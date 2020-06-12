@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Shekita"
-  avatar           : "circle-cropped2.png"
+  avatar           : images/circle-cropped2.png
   bio              : "Associate at Analysis Group"
   location         : "Test"
   employer         :
