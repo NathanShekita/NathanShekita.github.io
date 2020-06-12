@@ -20,10 +20,8 @@ On this site, I've included snippets of some (hopefully) interesting background 
 Posts
 ------
 
-![alt-text-1](images/oon_rates_nyt.PNG "title-1") ![alt-text-2](images/oon_rates_nyt.PNG "title-2")
-
 <p float="left">
-  <img src="images/oon_rates_nyt.PNG" width="100" />
-  <img src="images/oon_rates_nyt.PNG" width="100" /> 
-  <img src="images/oon_rates_nyt.PNG" width="100" />
+  <img src="images/oon_rates_nyt.PNG" width="200" />
+  <img src="images/oon_rates_nyt.PNG" width="200" /> 
+  <img src="images/oon_rates_nyt.PNG" width="200" />
 </p>
