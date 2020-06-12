@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Shekita"
-  avatar           : images/circle-cropped2.png
+  avatar           :circle-cropped2.png
   bio              : "MBA & MPH, Yale University"
   location         : "New Haven, CT"
   employer         :
