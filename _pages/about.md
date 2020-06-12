@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-teaser: images/mstile-310x310.png
 ---
 I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. Currently I work as an associate at Analysis Group in the litigation consulting industry. 
 
