@@ -6,17 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery2:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-    title: "This is a title image"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
 ---
 I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. Currently I work as an associate at Analysis Group in the litigation consulting industry. 
 
@@ -31,4 +20,10 @@ On this site, I've included snippets of some (hopefully) interesting background 
 Posts
 ------
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+![alt-text-1](images/oon_rates_nyt.PNG "title-1") ![alt-text-2](images/oon_rates_nyt.PNG "title-2")
+
+<p float="left">
+  <img src="images/oon_rates_nyt.PNG" width="100" />
+  <img src="images/oon_rates_nyt.PNG" width="100" /> 
+  <img src="images/oon_rates_nyt.PNG" width="100" />
+</p>
