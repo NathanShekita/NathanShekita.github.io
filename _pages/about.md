@@ -20,8 +20,11 @@ On this site, I've included snippets of some (hopefully) interesting background 
 Posts
 ------
 
-<p float="left">
-  <img src="images/oon_rates_nyt.PNG" width="200" />
-  <img src="images/oon_rates_nyt.PNG" width="200" /> 
-  <img src="images/oon_rates_nyt.PNG" width="200" />
+<a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" align="left" height="500" width="500" ></a>
+
+
+<p align="left">
+  <img src="images/oon_rates_nyt.PNG" width="400" />
+  <img src="images/oon_rates_nyt.PNG" width="400" /> 
+  <img src="images/oon_rates_nyt.PNG" width="400" />
 </p>
