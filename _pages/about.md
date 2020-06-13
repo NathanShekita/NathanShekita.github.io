@@ -21,7 +21,7 @@ Posts
 ------
 
 <p align="left">
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="500" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="500" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="500" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="200" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="200" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" width="200" ></a>
 </p>
