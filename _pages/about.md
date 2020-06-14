@@ -11,7 +11,7 @@ gallery2:
     image_path: https://i.imgur.com/8ELs93U.jpg
     alt: "Machine Learning with LASSO"
   - url: https://imgur.com/a/VoLjEku
-    image_path: https://i.imgur.com/I2owt2o.jpg
+    image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 gallery3:
   - url: https://imgur.com/a/VoLjEku
