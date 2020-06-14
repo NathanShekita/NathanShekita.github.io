@@ -6,6 +6,16 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+gallery2:
+  - url: https://imgur.com/a/VoLjEku
+    image_path: https://i.imgur.com/UCxVZlU.jpg
+    alt: "Black and grays with a hint of green"
+  - url: https://flic.kr/p/8a738X
+    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
+    alt: "Made for open text placement"
+  - url: https://flic.kr/p/8a6VXP
+    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
+    alt: "Fog in the trees"
 ---
 I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. 
 
@@ -20,8 +30,5 @@ On this site, I've included snippets of some (hopefully) interesting background 
 Posts
 ------
 
-<p align="left">
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T1" width="300" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="300" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="300" ></a>
-</p>
+{% include gallery id="gallery2" %}
+
