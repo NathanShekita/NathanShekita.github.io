@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. Currently I work as an associate at Analysis Group in the litigation consulting industry. 
+I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. 
 
 In my spare time, I enjoy coding and documenting the empirical methods I've implemented as a researcher. Some of this work has even been featured on the [front page of the New York Times](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html). 
 
@@ -21,7 +21,7 @@ Posts
 ------
 
 <p align="left">
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T1" width="200" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="200" ></a>
-  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="200" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T1" width="300" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="300" ></a>
+  <a href="https://nathanshekita.github.io/."><img src="images/oon_rates_nyt.PNG" title="T2" width="300" ></a>
 </p>
