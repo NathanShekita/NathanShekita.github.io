@@ -34,6 +34,6 @@ On this site, I've included snippets of some (hopefully) interesting background 
 Posts
 ------
 
-{% include gallery id="gallery2" layout="half" caption="This is a temp." %}
-{% include gallery id="gallery3" layout="half" caption="This is a temp." %}
+{% include gallery id="gallery2" layout="half" %}
+{% include gallery id="gallery3" layout="half" %}
 
