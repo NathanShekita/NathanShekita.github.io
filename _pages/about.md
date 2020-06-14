@@ -13,6 +13,13 @@ gallery2:
   - url: https://imgur.com/a/VoLjEku
     image_path: https://i.imgur.com/UCxVZlU.jpg
     alt: "Made for open text placement"
+gallery3:
+  - url: https://imgur.com/a/VoLjEku
+    image_path: https://i.imgur.com/UCxVZlU.jpg
+    alt: "Black and grays with a hint of green"
+  - url: https://imgur.com/a/VoLjEku
+    image_path: https://i.imgur.com/UCxVZlU.jpg
+    alt: "Made for open text placement"
 ---
 I'm an MBA & MPH graduate from Yale interested in healthcare, antitrust, and data analytics. I've published research in healthcare economics and continue to engage in the field. 
 
@@ -28,4 +35,5 @@ Posts
 ------
 
 {% include gallery id="gallery2" layout="half" caption="This is a temp." %}
+{% include gallery id="gallery3" layout="half" caption="This is a temp." %}
 
