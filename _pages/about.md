@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 gallery2:
   - url: https://imgur.com/a/VoLjEku
-    image_path: https://i.imgur.com/UCxVZlU.jpg
-    alt: "Black and grays with a hint of green"
+    image_path: https://i.imgur.com/8ELs93U.jpg
+    alt: "Machine Learning with LASSO"
   - url: https://imgur.com/a/VoLjEku
-    image_path: https://i.imgur.com/UCxVZlU.jpg
-    alt: "Made for open text placement"
+    image_path: https://i.imgur.com/3vofqnY.jpg
+    alt: "Web scraping with Python"
 gallery3:
   - url: https://imgur.com/a/VoLjEku
     image_path: https://i.imgur.com/UCxVZlU.jpg
