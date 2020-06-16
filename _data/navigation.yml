@@ -7,7 +7,7 @@ main:
     url: /talks/ 
    
   - title: "Resume Test"
-    url: /resume_test/ 
+    url: /resume_test 
 
   - title: "Teaching"
     url: /teaching/    
