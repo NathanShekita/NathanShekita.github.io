@@ -22,9 +22,9 @@ On this site, I've included snippets of some (hopefully) interesting background 
 
 *Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
 
-[Resume](https://nathanshekita.github.io/cv/){: .btn .btn--info} 
-[Publications](https://nathanshekita.github.io/cv/){: .btn .btn--info}
-[Projects](https://nathanshekita.github.io/cv/){: .btn .btn--info}
+[Resume](https://nathanshekita.github.io/shekita_resume_2020.pdf){: .btn .btn--info} 
+[Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
+[Projects](https://nathanshekita.github.io/year-archive/){: .btn .btn--info}
 
   
 
