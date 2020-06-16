@@ -20,11 +20,13 @@ In my spare time, I enjoy coding and documenting the empirical methods I've impl
 
 On this site, I've included snippets of some (hopefully) interesting background material and code from my GitHub that illustrate some of these projects. 
 
+*Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
+
 [Resume](https://nathanshekita.github.io/cv/){: .btn .btn--info} 
 [Publications](https://nathanshekita.github.io/cv/){: .btn .btn--info}
 [Projects](https://nathanshekita.github.io/cv/){: .btn .btn--info}
 
-*Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)    
+  
 
 
 
