@@ -3,23 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/ 
+  - title: "Resume"
+    url: /resume 
    
-  - title: "Resume Test"
-    url: /resume_test 
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Projects and Posts"
+    url: /year-archive/   
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
