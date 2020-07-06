@@ -22,7 +22,7 @@ In my spare time, I enjoy coding and documenting the empirical methods I've impl
 [Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
 [Projects](https://nathanshekita.github.io/year-archive/){: .btn .btn--info}
 
-*Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
+*Contact me at* [nathan.shekita@yale.edu](mailto:nathan.shekita@yale.edu)  
 
 Recent Posts
 ------
