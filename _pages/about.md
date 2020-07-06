@@ -22,10 +22,11 @@ On this site, I've included snippets of some (hopefully) interesting background 
 
 *Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
 
----
-###Publications
+Publications
+------
 
-[Surprise! Out-of-Network Billing for Emergency Care in the United States.](https://www.journals.uchicago.edu/doi/abs/10.1086/708819) *Forthcoming, Journal of Political Economy* (with Zack Cooper and Fiona Scott Morton) <br/>
+[Surprise! Out-of-Network Billing for Emergency Care in the United States.](https://www.journals.uchicago.edu/doi/abs/10.1086/708819) <br/> 
+*Forthcoming, Journal of Political Economy* (with Zack Cooper and Fiona Scott Morton) <br/>
 Media: [NYT](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html) | [Senate Inquiry](https://www.hsgac.senate.gov/imo/media/doc/2017-09-20%20CMC%20Ltr%20to%20EmCare%20re%20Pricing.pdf) | [NPR](https://www.wnpr.org/post/surprise-bills-confound-vulnerable-patients-emergency-rooms) | [Vox](https://www.vox.com/health-care/2019/3/19/18233051/surprise-medical-bills-arbitration-new-york) | [Forbes](https://www.forbes.com/sites/elliekincaid/2018/05/15/envision-healthcare-infiltrated-americas-ers-now-its-facing-a-backlash/#2e8396c0284f)
 
 [Resume](https://nathanshekita.github.io/shekita_resume_2020.pdf){: .btn .btn--info} 
