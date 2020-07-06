@@ -24,7 +24,7 @@ In my spare time, I enjoy coding and documenting the empirical methods I've impl
 
 *Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
 
-Posts
+Recent Posts
 ------
 
 {% include gallery id="gallery2" layout="half" %}
