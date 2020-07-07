@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About"
+title:
+excerpt: "MBA & MPH - Yale University - Researcher in economics"
 author_profile: true
 redirect_from: 
   - /about/
