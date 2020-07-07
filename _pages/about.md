@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: About
 excerpt: "MBA & MPH - Yale University - Researcher in economics"
 author_profile: true
 redirect_from: 
@@ -14,8 +14,6 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
-**About**
-
 I'm an MBA & MPH graduate from Yale University interested in healthcare, antitrust, and data analytics. I've published research in economics and continue to engage in the field. 
 
 In my spare time, I enjoy coding and documenting the empirical methods I've implemented as a researcher. Some of this work has even been featured on the [front page of the New York Times](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html). 
@@ -26,7 +24,8 @@ In my spare time, I enjoy coding and documenting the empirical methods I've impl
 
 *Contact me at* [nathan.shekita@yale.edu](mailto:nathan.shekita@yale.edu)  
 
-**Publications**
+Publications
+------
 
 [Surprise! Out-of-Network Billing for Emergency Care in the United States.](https://www.journals.uchicago.edu/doi/abs/10.1086/708819) <br/> 
 *Forthcoming, Journal of Political Economy* (with Zack Cooper and Fiona Scott Morton) <br/>
