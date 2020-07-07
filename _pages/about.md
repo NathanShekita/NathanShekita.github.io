@@ -14,6 +14,7 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
+
 About
 ------
 I'm an MBA & MPH graduate from Yale University interested in healthcare, antitrust, and data analytics. I've published research in economics and continue to engage in the field. 
