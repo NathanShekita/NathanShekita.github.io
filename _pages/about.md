@@ -14,6 +14,8 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
+About
+------
 I'm an MBA & MPH graduate from Yale University interested in healthcare, antitrust, and data analytics. I've published research in economics and continue to engage in the field. 
 
 In my spare time, I enjoy coding and documenting the empirical methods I've implemented as a researcher. Some of this work has even been featured on the [front page of the New York Times](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html). 
