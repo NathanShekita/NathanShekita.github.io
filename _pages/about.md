@@ -18,7 +18,7 @@ I'm an MBA & MPH graduate from Yale University interested in healthcare, antitru
 
 In my spare time, I enjoy coding and documenting the empirical methods I've implemented as a researcher. Some of this work has even been featured on the [front page of the New York Times](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html). 
 
-[Resume](https://nathanshekita.github.io/shekita_resume_2020.pdf){: .btn .btn--info} 
+[Resume](https://nathanshekita.github.io/Resume%20-%20Nathan%20Shekita.pdf){: .btn .btn--info} 
 [Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
 [Projects](https://nathanshekita.github.io/year-archive/){: .btn .btn--info}
 
