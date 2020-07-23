@@ -14,9 +14,7 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
-I'm an MBA & MPH graduate from Yale University interested in healthcare, antitrust, and data analytics. I've published research in economics and continue to engage in the field. 
-
-In my spare time, I enjoy coding and documenting the empirical methods I've implemented as a researcher. Some of this work has even been featured on the [front page of the New York Times](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-surprise-emergency-room-bills.html). 
+I'm an MBA & MPH graduate from Yale University interested in antitrust, healthcare, and data analytics. I've published research in economics and continue to engage in the field. 
 
 [Resume](https://nathanshekita.github.io/Resume%20-%20Nathan%20Shekita.pdf){: .btn .btn--info} 
 [Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
@@ -34,6 +32,13 @@ Media: [NYT](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-s
 [Out-Of-Network Billing And Negotiated Payments For Hospital-Based Physicians.](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2019.00507) <br/>
 *Health Affairs,* 39(1) (with Zack Cooper, Hao Nguyen, and Fiona Scott Morton) <br/>
 Media: [Yale](https://news.yale.edu/2019/12/16/study-exposes-surprise-billing-hospital-physicians) | [Becker's Hospital Review](https://www.beckershospitalreview.com/finance/zero-out-of-network-billing-by-4-specialists-could-save-40b-study-finds.html) | [Modern Healthcare](https://www.modernhealthcare.com/physicians/out-network-billing-hospital-based-specialists-boosts-spending-40-billion) | [Fiscal Times](http://www.thefiscaltimes.com/2019/12/17/Surprise-Medical-Billing-Drives-Spending-40-Billion-Year-Report)
+
+Working Papers
+------
+Interventions by Common Owners <br/>
+*SSRN Working Paper*, July 2020 <br/>
+> In this paper, I compile, document, and taxonomize 30 separate cases of intervention to demonstrate how common owners influence firm behavior. Anticompetitive concerns arise when horizontal shareholders use such interventions to reduce competition between commonly-owned firms. Critics have challenged the plausibility of a common owner’s capacity and incentive to do so. This paper provides clear evidence from media coverage and investigations that common owners frequently engage in such practices.
+
 
 Recent Posts
 ------
