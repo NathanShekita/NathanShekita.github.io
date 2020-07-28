@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: About
-excerpt: "MBA & MPH - Yale University - Researcher in economics"
+excerpt: "Yale School of Management - Researcher in economics"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
-I'm an MBA & MPH graduate from Yale University interested in antitrust, healthcare, and data analytics. I've published research in economics and continue to engage in the field. 
+I'm a recent graduate from the Yale School of Management interested in antitrust, healthcare, and data analytics. I've published research in economics and continue to engage in the field. 
 
 [Resume](https://nathanshekita.github.io/Resume%20-%20Nathan%20Shekita.pdf){: .btn .btn--info} 
 [Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
