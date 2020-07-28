@@ -35,7 +35,7 @@ Media: [Yale](https://news.yale.edu/2019/12/16/study-exposes-surprise-billing-ho
 
 Working Papers
 ------
-Interventions by Common Owners <br/>
+[Interventions by Common Owners](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658726) <br/>
 *SSRN Working Paper*, July 2020 <br/>
 > In this paper, I compile, document, and taxonomize 30 separate cases of intervention to demonstrate how common owners influence firm behavior. Anticompetitive concerns arise when horizontal shareholders use such interventions to reduce competition between commonly-owned firms. Critics have challenged the plausibility of a common owner’s capacity and incentive to do so. This paper provides clear evidence from media coverage and investigations that common owners frequently engage in such practices.
 
