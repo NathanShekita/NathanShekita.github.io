@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 gallery2:
-  - url: https://nathanshekita.github.io/posts/lasso_healthcare/
+  - url: https://github.com/NathanShekita/Scraping-data-from-web-and-PDF-sources
     image_path: https://i.imgur.com/CfAdCVJ.jpg
     alt: "Scraping PDF data"
   - url: https://nathanshekita.github.io/posts/lasso_healthcare/
