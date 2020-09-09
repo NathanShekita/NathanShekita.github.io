@@ -10,6 +10,9 @@ gallery2:
   - url: https://nathanshekita.github.io/posts/lasso_healthcare/
     image_path: https://i.imgur.com/8ELs93U.jpg
     alt: "Machine Learning with LASSO"
+  - url: https://nathanshekita.github.io/posts/lasso_healthcare/
+    image_path: https://i.imgur.com/CfAdCVJ.jpg
+    alt: "Scraping PDF data"
   - url: https://nathanshekita.github.io/posts/python_scraping/
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
