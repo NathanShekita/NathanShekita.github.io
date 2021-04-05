@@ -13,3 +13,6 @@ Media: [NYT](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-s
 *Health Affairs,* 39(1) (with Zack Cooper, Hao Nguyen, and Fiona Scott Morton) <br/>
 Media: [Yale](https://news.yale.edu/2019/12/16/study-exposes-surprise-billing-hospital-physicians) | [Becker's Hospital Review](https://www.beckershospitalreview.com/finance/zero-out-of-network-billing-by-4-specialists-could-save-40b-study-finds.html) | [Modern Healthcare](https://www.modernhealthcare.com/physicians/out-network-billing-hospital-based-specialists-boosts-spending-40-billion) | [Fiscal Times](http://www.thefiscaltimes.com/2019/12/17/Surprise-Medical-Billing-Drives-Spending-40-Billion-Year-Report)
 
+[Interventions by Common Owners](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658726) <br/>
+*Journal of Competition Law and Economics*, Forthcoming <br/>
+Media: [Oxford Business Law](https://www.law.ox.ac.uk/business-law-blog/blog/2021/01/interventions-common-owners) | [Global Competition Review](https://globalcompetitionreview.com/gcr-usa/common-ownership/new-research-identifies-potential-influence-of-common-ownership) | [Yale Thurman Arnold Project](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale/digital-platforms-and-antitrust)
