@@ -17,13 +17,13 @@ gallery2:
     image_path: https://i.imgur.com/L9O2U0v.jpg
     alt: "Web scraping with Python"
 ---
-I'm a recent graduate from the Yale School of Management interested in antitrust, healthcare, and data analytics. I've published research in economics and continue to engage in the field. 
+I'm a graduate from the Yale School of Management and School of Public Health currently working as an economic consultant at Anaysis Group. I've published research in economic topics relating to healthcare, antitrust, and corporate finance and continue to engage in the field. 
 
 [Resume](https://nathanshekita.github.io/Resume%20-%20Nathan%20Shekita.pdf){: .btn .btn--info} 
 [Publications](https://nathanshekita.github.io/publications/){: .btn .btn--info}
 [Projects](https://nathanshekita.github.io/year-archive/){: .btn .btn--info}
 
-*Contact me at* [nathan.shekita@yale.edu](mailto:nathan.shekita@yale.edu)  
+*Contact me at* [nshekita@gmail.com](mailto:nshekita@gmail.com)  
 
 Publications
 ------
@@ -36,12 +36,9 @@ Media: [NYT](https://www.nytimes.com/2017/07/24/upshot/the-company-behind-many-s
 *Health Affairs*, 39(1) (with Zack Cooper, Hao Nguyen, and Fiona Scott Morton) <br/>
 Media: [Yale](https://news.yale.edu/2019/12/16/study-exposes-surprise-billing-hospital-physicians) | [Becker's Hospital Review](https://www.beckershospitalreview.com/finance/zero-out-of-network-billing-by-4-specialists-could-save-40b-study-finds.html) | [Modern Healthcare](https://www.modernhealthcare.com/physicians/out-network-billing-hospital-based-specialists-boosts-spending-40-billion) | [Fiscal Times](http://www.thefiscaltimes.com/2019/12/17/Surprise-Medical-Billing-Drives-Spending-40-Billion-Year-Report)
 
-Working Papers
-------
 [Interventions by Common Owners](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658726) <br/>
-*SSRN Working Paper*, July 2020 <br/>
-Media: [Global Competition Review](https://globalcompetitionreview.com/gcr-usa/common-ownership/new-research-identifies-potential-influence-of-common-ownership) | [Yale Thurman Arnold Project](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale/digital-platforms-and-antitrust)
-
+*Journal of Competition Law and Economics*, Forthcoming <br/>
+Media: [Oxford Business Law](https://www.law.ox.ac.uk/business-law-blog/blog/2021/01/interventions-common-owners) [Global Competition Review](https://globalcompetitionreview.com/gcr-usa/common-ownership/new-research-identifies-potential-influence-of-common-ownership) | [Yale Thurman Arnold Project](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale/digital-platforms-and-antitrust)
 
 
 Recent Posts
