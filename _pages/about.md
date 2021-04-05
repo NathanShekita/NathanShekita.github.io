@@ -38,7 +38,7 @@ Media: [Yale](https://news.yale.edu/2019/12/16/study-exposes-surprise-billing-ho
 
 [Interventions by Common Owners](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3658726) <br/>
 *Journal of Competition Law and Economics*, Forthcoming <br/>
-Media: [Oxford Business Law](https://www.law.ox.ac.uk/business-law-blog/blog/2021/01/interventions-common-owners) [Global Competition Review](https://globalcompetitionreview.com/gcr-usa/common-ownership/new-research-identifies-potential-influence-of-common-ownership) | [Yale Thurman Arnold Project](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale/digital-platforms-and-antitrust)
+Media: [Oxford Business Law](https://www.law.ox.ac.uk/business-law-blog/blog/2021/01/interventions-common-owners) | [Global Competition Review](https://globalcompetitionreview.com/gcr-usa/common-ownership/new-research-identifies-potential-influence-of-common-ownership) | [Yale Thurman Arnold Project](https://som.yale.edu/faculty-research-centers/centers-initiatives/thurman-arnold-project-at-yale/digital-platforms-and-antitrust)
 
 
 Recent Posts
