@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: About
-excerpt: "Yale School of Management - Researcher in economics"
+excerpt: "Manager - Analysis Group"
 author_profile: true
 redirect_from: 
   - /about/
