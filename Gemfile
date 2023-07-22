@@ -26,4 +26,4 @@ group :jekyll_plugins do
   gem 'hawkins'
 end
 
-gem 'mini_racer'
+#gem 'mini_racer'
