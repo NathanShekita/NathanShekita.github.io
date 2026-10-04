@@ -34,17 +34,18 @@ redirect_from:
   --ink: #18222a;
   --muted: #5b6871;
   --rule: #dde3e6;
+  --panel-line: #e6eaec;
   --accent: #1f5f73;
   --display: "Literata", Georgia, "Times New Roman", serif;
   --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #12181c; --surface: #182127; --ink: #e6ecef; --muted: #98a6ae; --rule: #2a363d; --accent: #7cc1d4; color-scheme: dark;
+    --bg: #12181c; --surface: #182127; --ink: #e6ecef; --muted: #98a6ae; --rule: #2a363d; --panel-line: #263037; --accent: #7cc1d4; color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #12181c; --surface: #182127; --ink: #e6ecef; --muted: #98a6ae; --rule: #2a363d; --accent: #7cc1d4; color-scheme: dark;
+  --bg: #12181c; --surface: #182127; --ink: #e6ecef; --muted: #98a6ae; --rule: #2a363d; --panel-line: #263037; --accent: #7cc1d4; color-scheme: dark;
 }
 /* Everything is sized in rem, and the root size grows with the window, so the page scales as a whole */
 html { height: 100%; font-size: clamp(15px, 0.55rem + 0.6vw, 22px); }
@@ -79,6 +80,11 @@ h2 {
   font: 600 0.75rem/1 var(--body); text-transform: uppercase; letter-spacing: 0.12em;
   color: var(--muted); margin: 0 0 0.25rem; padding-bottom: 0.65rem; border-bottom: 1px solid var(--rule);
 }
+.panel {
+  border: 1px solid var(--panel-line); border-radius: 0.5rem;
+  padding: 1.1rem 1.4rem 0.4rem;
+}
+.panel .pubs li:last-child { border-bottom: 0; }
 .pubs { list-style: none; margin: 0; padding: 0; }
 .pubs li {
   display: grid; grid-template-columns: 3.5rem 1fr; gap: 0.8rem;
@@ -126,7 +132,7 @@ h2 {
   <section class="work">
     <p class="bio">I apply statistical and economic methods to litigation and strategy matters for clients in health care: kickbacks, false claims, class certification, recalled medical devices, and opioid order monitoring. My research covers health care, antitrust, and corporate finance.</p>
 
-    <div>
+    <section class="panel">
       <h2>Publications</h2>
       <ul class="pubs">
         <li>
@@ -154,9 +160,9 @@ h2 {
           </div>
         </li>
       </ul>
-    </div>
+    </section>
 
-    <div>
+    <section class="panel">
       <h2>Selected casework</h2>
       <ul class="pubs">
         <li>
@@ -195,7 +201,7 @@ h2 {
           </div>
         </li>
       </ul>
-    </div>
+    </section>
 
     <p class="foot">Contact: <a href="mailto:nate.shekita@analysisgroup.com">nate.shekita@analysisgroup.com</a></p>
   </section>
