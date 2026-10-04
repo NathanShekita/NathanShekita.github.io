@@ -141,6 +141,7 @@ exclude:
   - assets/js/vendor
   - config
   - gulpfile.js
+  - CONTRIBUTING.md
   - log
   - node_modules
   - package.json
@@ -191,6 +192,11 @@ collections:
 
 # Defaults
 defaults:
+  # keep the Search Console verification file out of the sitemap
+  - scope:
+      path: "googlee6c4307d20673b0d.html"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
