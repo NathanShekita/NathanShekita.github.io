@@ -1,11 +1,2 @@
-# main links links
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Resume"
-    url: /Resume - Nathan Shekita.pdf
-   
-  - title: "Projects and Posts"
-    url: /year-archive/   
-    
+# Top nav on post pages. The site title in the masthead already links home.
+main: []
