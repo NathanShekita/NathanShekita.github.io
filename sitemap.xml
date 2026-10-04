@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>{{ "/" | absolute_url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <image:image>
+      <image:loc>{{ "/images/nathan-shekita.jpg" | absolute_url }}</image:loc>
+    </image:image>
+  </url>
+  {% for post in site.posts %}{% unless post.sitemap == false %}
+  <url>
+    <loc>{{ post.url | absolute_url }}</loc>
+    <lastmod>{{ post.last_modified_at | default: post.date | date_to_xmlschema }}</lastmod>
+  </url>
+  {% endunless %}{% endfor %}
+</urlset>
