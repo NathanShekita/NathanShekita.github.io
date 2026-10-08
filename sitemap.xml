@@ -8,7 +8,7 @@ sitemap: false
     <loc>{{ "/" | absolute_url }}</loc>
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <image:image>
-      <image:loc>{{ "/images/nate-shekita-headshot.jpg" | absolute_url }}</image:loc>
+      <image:loc>{{ "/images/nate-shekita-portrait.jpg" | absolute_url }}</image:loc>
     </image:image>
   </url>
   {% for post in site.posts %}{% unless post.sitemap == false %}
